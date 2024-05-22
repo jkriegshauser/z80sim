@@ -1,3 +1,5 @@
+// Copyright (C) 2002-2024 Joshua Kriegshauser
+// All rights reserved.
 #ifndef codepageH
 #define codepageH
 const OPCODE Z80::_codepage[][256] = {

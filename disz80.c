@@ -1,3 +1,5 @@
+// Copyright (C) 2002-2024 Joshua Kriegshauser
+// All rights reserved.
 #include "disz80.h"
 #include "z80opcodes.h"
 #include <stdio.h>

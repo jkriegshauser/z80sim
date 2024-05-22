@@ -1,3 +1,5 @@
+// Copyright (C) 2002-2024 Joshua Kriegshauser
+// All rights reserved.
 #ifndef disz80H
 #define disz80H
 #ifdef __cplusplus

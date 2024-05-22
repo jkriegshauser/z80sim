@@ -1,3 +1,5 @@
+// Copyright (C) 2002-2024 Joshua Kriegshauser
+// All rights reserved.
 /**
  * Defines function prototypes for z80cpu.asm
  */

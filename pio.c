@@ -1,3 +1,5 @@
+// Copyright (C) 2002-2024 Joshua Kriegshauser
+// All rights reserved.
 #include "pio.h"
 
 void pio_init( PIOSTATE *pio ) {

@@ -1,3 +1,5 @@
+; Copyright (C) 2002-2024 Joshua Kriegshauser
+; All rights reserved.
 ; TODO list
 ; 3. Convert IX/IY/SP to actual memory (not emulated offsets) (lose bounds checking??)
 ; 4. Prevent callbacks from being called in CPU thread context (i.e. messaging?)
